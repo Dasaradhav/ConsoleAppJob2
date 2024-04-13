@@ -1,0 +1,15 @@
+G:\DotNetCore\ConsoleAppJob1\bin\Debug\net7.0\ConsoleAppJob1.exe
+G:\DotNetCore\ConsoleAppJob1\bin\Debug\net7.0\ConsoleAppJob1.deps.json
+G:\DotNetCore\ConsoleAppJob1\bin\Debug\net7.0\ConsoleAppJob1.runtimeconfig.json
+G:\DotNetCore\ConsoleAppJob1\bin\Debug\net7.0\ConsoleAppJob1.dll
+G:\DotNetCore\ConsoleAppJob1\bin\Debug\net7.0\ConsoleAppJob1.pdb
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.csproj.AssemblyReference.cache
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.AssemblyInfoInputs.cache
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.AssemblyInfo.cs
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.csproj.CoreCompileInputs.cache
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.dll
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\refint\ConsoleAppJob1.dll
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.pdb
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ConsoleAppJob1.genruntimeconfig.cache
+G:\DotNetCore\ConsoleAppJob1\obj\Debug\net7.0\ref\ConsoleAppJob1.dll
